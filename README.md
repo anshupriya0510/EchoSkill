@@ -16,4 +16,4 @@ Frontend: Next.js, React, TypeScript, Tailwind CSS
 
 Backend & Database: Firebase (Authentication, Firestore Database)
 
-Package Manager: pnpm
+Package Manager: pnpm.
